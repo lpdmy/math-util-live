@@ -16,7 +16,8 @@ public class MathUtilLive {
         System.out.println("6! = 720; actual: " + MathUtil.getFactorial(6));
 
         System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
-
+//THÊM CODE SAU LẦN ĐẦU 7:33 P.M 5/1/2024
+        System.out.println("1! = 1; actual: " + MathUtil.getFactorial(1));
 //        MathUtil.getFactorial(-5); ném ngoại lệ thật rồi
         // kĩ thuật kiểm thử phần mềm : ước lượng xem giá trị trả về của hàm là gì 
         // expected value: 5! = 120
