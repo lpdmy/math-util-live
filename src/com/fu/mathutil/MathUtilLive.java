@@ -16,6 +16,9 @@ public class MathUtilLive {
         System.out.println("6! = 720; actual: " + MathUtil.getFactorial(6));
 
         System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
+
+        System.out.println("2! = 2; actual: " + MathUtil.getFactorial(2)); // test CI
+
 //THÊM CODE SAU LẦN ĐẦU 7:33 P.M 5/1/2024
         System.out.println("1! = 1; actual: " + MathUtil.getFactorial(1));
 //        MathUtil.getFactorial(-5); ném ngoại lệ thật rồi
