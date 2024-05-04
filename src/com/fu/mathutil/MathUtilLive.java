@@ -18,7 +18,7 @@ public class MathUtilLive {
         System.out.println("0! = 1; actual: " + MathUtil.getFactorial(0));
 
         System.out.println("2! = 2; actual: " + MathUtil.getFactorial(2)); // test CI
-        System.out.println(MathUtil.getFactorial(-1)); // cố tình đỏ
+        System.out.println(MathUtil.getFactorial(-1)) dhd; // cố tình đỏ
 
 //THÊM CODE SAU LẦN ĐẦU 7:33 P.M 5/1/2024
         System.out.println("1! = 1; actual: " + MathUtil.getFactorial(1));
